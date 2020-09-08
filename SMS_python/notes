@@ -1,0 +1,9 @@
+1. search Twilio on Google
+2. SignIn
+3. create new project
+4. Programmable SMS
+5. Give your project a name
+6. (project name)dashboard
+    - select Programmable SMS
+7. copy all code paste on vs code
+8. copy account_sid.. paste in our code also auth_token
